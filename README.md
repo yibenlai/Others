@@ -1,21 +1,3 @@
-# test
-- [x] Pin Hole in Rotation Platform not fit with main Frame
-- [x] Adjust Foot delay of lead time
-- [ ] Motor shaft bracket screw hole not fit with main Frame
-- [x] Float joint order NO not correct in safety shaft.
-- [x] Misumi materials wrong distributed to VW Line
-- [ ] Step Pin need to purchased from MisuMi
-- [ ] Lack of one Cylinder for position rotation Platform
-- [ ] Fixture for cylinder missing。
-- [ ] Cylinder order No mistaken for safety guarantee 。
-- [ ] Press Frame linear cylinder valve position
-- [ ] KQ2U-00 missing, add to BOM List
-- [ ] 20--1/8
-- [ ] 25--1/8
-- [ ] 32--1/8
-- [ ] 40--1/4
-- [ ] 50--1/4
-- [ ] 63--1/4
-
-- [ ] 50--1/4
-- [ ] 63--1/4
+# PP
+WorkFlow
+only for myself for workreview
